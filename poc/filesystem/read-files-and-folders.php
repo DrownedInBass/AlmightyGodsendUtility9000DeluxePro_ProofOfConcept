@@ -28,10 +28,6 @@ foreach($pathsToMp3s as $directory) {
         $sizeInMegabytes = $sizeInBytes / 1024;
         $sizeInMegabytesFormatted = number_format($sizeInMegabytes, 3, ",", ".")." MB";
 
-        $tag = id3_get_tag($combinedPath);
-        print_r($tag);
-
-        
         $mp3Data = array(
             "file" => $content,
             "directory" => $directory,
