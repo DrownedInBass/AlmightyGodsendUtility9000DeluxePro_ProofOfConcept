@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+
+
+
+### String Manipulation
+
+https://www.php.net/manual/en/function.str-replace.php

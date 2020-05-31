@@ -1,0 +1,60 @@
+
+
+
+
+GUID / UUID erzeugen:
+https://www.php.net/manual/en/function.uniqid.php
+
+
+MSQL / PDO (Datenbankanbindung und sichere Queries) einrichten und ansteuern:
+
+
+
+
+
+https://www.php.net/manual/en/language.oop5.autoload.php
+https://www.a-coding-project.de/ratgeber/php/autoloader
+
+
+
+
+--------    PHP Basics:
+
+https://www.php.net/manual/en/dir.constants.php
+
+
+
+--------    Umgebungsvariablen von Betriebssystem:
+
+https://www.php.net/manual/en/function.getenv.php
+Variable setzen (Mac) --> https://medium.com/@himanshuagarwal1395/setting-up-environment-variables-in-macos-sierra-f5978369b255
+Variable setzen (Win) --> http://www.dowdandassociates.com/blog/content/howto-set-an-environment-variable-in-windows-command-line-and-registry/
+
+
+--------    Dateisystem- und Webseiten/-inhalte lesen:
+
+--> DIRECTORY_SEPARATOR
+--> file_build_path("home", "alice", "Documents", "example.txt");
+
+https://www.php.net/manual/en/function.file-get-contents.php
+https://www.w3schools.com/php/func_directory_readdir.asp
+https://www.php.net/manual/en/function.scandir.php
+https://stackoverflow.com/questions/2922954/getting-the-names-of-all-files-in-a-directory-with-php 
+https://www.php.net/manual/en/function.pathinfo.php
+https://www.php.net/manual/en/function.dirname.php
+
+
+--------    Encoding, Escaping und Formate:
+
+https://www.php.net/manual/en/function.urlencode.php
+https://stackoverflow.com/questions/3826963/php-list-all-files-in-directory
+https://www.php.net/manual/en/function.glob.php
+https://www.tutorialspoint.com/glob-function-in-php
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+##########################################################################################################
+#                                                                                                        #
+#            Diese Datei Dient als Möglichkeit, sich schnell Tasks von der Seele zu schreiben.           #
+#            -   Diese Tasks sollten natürlich später wieder ihren Weg in einen                          #
+#                zuverlässigen Prozess finden oder noch davor erledigt werden.                           #
+#                                                                                                        #
+##########################################################################################################
+
+
+
+
+                
+
+
+-   Das Design der Page sollte sofort erkennen lassen, ob man sich in einer DEV/INT/PROD-Umgebung befindet.
+    Vielleicht ein Farbcode (rot, gelb, grün), der dezent aber leicht sichtbar auf den Pages enthalten ist?
+    Ein Beispiel wäre ein wenige Pixel breiter Balken oben/links/rechts von der Seite oder um die Seite 
+    herum, welcher das jeweilige System erkennbar macht.
+
+
+
+
+
+
+
+
+##########      WICHTIGE LINKS          ##########
+
+
+Valhalla Reverb. Link von Ill Dynamics
+https://valhalladsp.com/shop/reverb/valhalla-supermassive/
+
+
+
+##########     ENDE WICHTIGE LINKS      ##########

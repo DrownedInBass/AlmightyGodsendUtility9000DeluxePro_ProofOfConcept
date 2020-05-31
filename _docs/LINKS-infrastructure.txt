@@ -1,0 +1,14 @@
+
+
+### LOCAL ENVIRONMENT
+
+DiB Utility                                                     |   http://localhost:9000/DEV_AlmightyGodsendUtility9000DeluxePro
+DiB Utility PoC                                                 |   http://localhost:9000/DEV_AlmightyGodsendUtility9000DeluxePro_ProofOfConcept
+
+### GITHUB
+
+DiB Github Landing Page                                         |   https://github.com/DrownedInBass
+DiB Github Project Almighty Godsend Utility 9000 Deluxe Pro     |   https://github.com/DrownedInBass/AlmightyGodsendUtility9000DeluxePro
+DiB Github Project: Proof of Contept                            |   https://github.com/DrownedInBass/AlmightyGodsendUtility9000DeluxePro_ProofOfConcept/actions/new
+
+
